@@ -1,0 +1,8 @@
+Hi Bailey 
+Fantastic job on your recent homework assignment! Your proficiency in PowerShell and sysadmin tasks really shines through. I must commend you on the creation of the new GPO, "No LLMNR". 
+Your inclusion of a screenshot adds clarity, and overall, it's a well-executed task. Your management of GPO account lockout mechanics is exemplary. "Account Lockout" GPO is aptly configured with sensible values for lockout duration, threshold, and reset count. 
+The accompanying screenshots effectively illustrate your setup. Kudos also for your PowerShell GPO creation and the activation of auditing features. 
+Your attention to detail is evident in the settings for Module Logging, Script Blocking, execution policy, transcript policy, and the handling of Update-Help's default source path. Moving on to your script work, you've truly impressed. 
+The for-loop implementation to enumerate ACLs of files in a folder is commendable. Moreover, completing the bonus task by providing a screenshot confirming the deployment of your "Logging GPO" showcases your thoroughness and dedication. 
+Overall, this assignment has been a testament to your ability to craft robust GPOs for Windows domains. 
+Keep up the excellent work and the smooth flow you've established!
